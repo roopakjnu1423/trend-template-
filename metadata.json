@@ -1,0 +1,6 @@
+{
+  "name": "Trend Template Stocks",
+  "description": "Chartink Momentum & 52-Week High Trend Template screener and intelligent stock pick recommendations with Mark Minervini criteria and risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
